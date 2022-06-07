@@ -1,2 +1,2 @@
 # IPsweep-shell-
-basic IP sweep to scan network
+Basic IP sweep for scanning network
